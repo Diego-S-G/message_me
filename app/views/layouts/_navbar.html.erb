@@ -8,14 +8,18 @@
       <div class="ui dropdown item">
         Conta <i class="dropdown icon"></i>
         <div class="menu">
-          <a class="item">Sair</a>
-          <%= link_to "Entrar", login_path, class: "item" %>
-          <a class="item">Inscrever-se</a>
+          <% if logged_in? %>
+            <%= link_to "Sair", logout_path, method: :delete, class: "item" %>
+          <% else %>
+            <%= link_to "Entrar", login_path, class: "item" %>
+          <% end %>
         </div>
       </div>
-      <div class="item">
-        <div class="ui primary button">Inscreva-se</div>
-      </div>
+      <% if !logged_in? %>
+        <div class="item">
+          <div class="ui primary button">Inscreva-se</div>
+        </div>
+      <% end %>  
     </div>
   </div>
 </div>
