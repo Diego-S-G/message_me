@@ -1,0 +1,20 @@
+@import "semantic-ui";
+
+.ui.large.inverted.menu {
+    border-radius: 0 !important;
+}
+
+.chatbox {
+    height: 450px;
+}
+
+#messages {
+    height: 15em;
+    overflow: auto;
+}
+
+.input {
+    button {
+        display: none;
+    }
+}
