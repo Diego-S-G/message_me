@@ -29,6 +29,7 @@ gem 'semantic-ui-sass', '~> 2.4.0.1'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'hirb', '~> 0.7.3'
+gem 'nokogiri', '~> 1.12.5'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
