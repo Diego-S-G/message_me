@@ -1,7 +1,7 @@
 # Message Me
 <br/>
 
-Este é um dos projetos que fiz acompanhando o [curso do Mashrur Hossain na Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course) na minha trilha de aprendizado de Ruby e Rails.
+Este é um dos projetos que fiz acompanhando o [curso do Mashrur Hossain na Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course), na minha trilha de aprendizado de Ruby e Rails.
 <br/>
 
 O Message Me é uma aplicação bem simples onde os usuários podem se reunir em uma chatroom para conversar. 
