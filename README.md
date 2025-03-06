@@ -4,7 +4,7 @@
 Este é um dos projetos que fiz acompanhando o [curso do Mashrur Hossain na Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course) na minha trilha de aprendizado de Ruby e Rails.
 <br/>
 
-O Message Me é aplicação bem simples onde os usuários podem se reunir em uma chatroom para conversar. 
+O Message Me é uma aplicação bem simples onde os usuários podem se reunir em uma chatroom para conversar. 
 <br/>
 
 Este projeto foi feito usando Ruby 2.5.8 e Rails 5.2.1 **(favor ler Problemas Conhecidos)**.
